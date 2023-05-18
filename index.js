@@ -1,4 +1,4 @@
-let userOne = { Name: 'Waydin', Surname: 'Jcohem', Age: '20', Occupation: 'full-time' };
+let userOne = { name: 'Waydin', surname: 'Jcohem', age: '20', occupation: 'full-time' };
 let userTwo = {
     name: 'Jeff',
     surname: 'Jefferson',
